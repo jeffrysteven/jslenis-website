@@ -1,0 +1,26 @@
+{
+  "avatar": "https://github.com/jeffrysteven.png",
+  "name": "Jeffry Lenis",
+  "links": [
+    {
+      "image": "/images/cv.svg",
+      "title": "Resume",
+      "href": "https://www.kickresume.com/cv/jslenis/"
+    },
+    {
+      "image": "/images/linkedin.svg",
+      "title": "LinkedIn",
+      "href": "https://www.linkedin.com/in/jeffrystevenl/"
+    },
+    {
+      "image": "/images/github.svg",
+      "title": "Github",
+      "href": "https://github.com/jeffrysteven"
+    },
+    {
+      "image": "/images/medium.svg",
+      "title": "Blog",
+      "href": "https://medium.com/@jeffry_steven"
+    }
+  ]
+}
